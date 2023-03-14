@@ -8,6 +8,7 @@
 
 ```bash
 git clone https://github.com/andersoncordeiro/intro-github.git
+cd intro-github
 ```
 
 - Atualizar o repositório:
